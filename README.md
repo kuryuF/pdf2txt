@@ -19,7 +19,7 @@ $ git clone https://github.com/kuryuF/pdf2txt.git
 でターミナルウィンドウを表示させます。<br>
 3. ターミナルにて以下のコマンドを実行しpdfminor.sixをダウンロードする。（ダウンロードしていない場合のみ）<br>
 ```
-$ pip install pdfminor.six
+$ pip install pdfminer.six
 ```
 ### 実行する
 1. 右上の実行ボタンを押してコードを実行します。<br>
